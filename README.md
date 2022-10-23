@@ -1,3 +1,5 @@
 # image_classification_cifar10
 
-分别Resnet,VGGNet,MobileNetV1,GoogLeNetV1的骨架网络用于CIFAR10数据集分类
+
+分别使用Resnet,VGGNet,MobileNetV1,GoogLeNetV1的骨架网络用于CIFAR10数据集分类
+用于PyTorch框架的练习
